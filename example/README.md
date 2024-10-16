@@ -1,1 +1,1 @@
-Litle Chat-Bot KI Example
+Little Chat-Bot KI Example
