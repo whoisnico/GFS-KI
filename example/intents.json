@@ -1,0 +1,17 @@
+ {
+
+        "intents": [
+            {
+                "tag": "Begrüßung",
+                "patterns": ["hallo", "hey", "hi", "Guten", "whatsup", "yo", "whats popping", "whats up"],
+                "responses": ["Hey! What can I do for you?", "Hey ;) How can i help you today?", "Yoo! Whats your question?"]
+            },
+            {
+                "tag": "farewell",
+                "patterns": ["bye", "goodbye", "see you later", "take care", "farewell"],
+                "responses": ["Goodbye!", "See you later!", "Take care!"]
+            }
+
+        ]
+    
+ }
