@@ -7,10 +7,26 @@
                 "responses": ["Hey! What can I do for you?", "Hey ;) How can i help you today?", "Yoo! Whats your question?"]
             },
             {
-                "tag": "farewell",
-                "patterns": ["bye", "goodbye", "see you later", "take care", "farewell"],
-                "responses": ["Goodbye!", "See you later!", "Take care!"]
+                "tag": "Verabschiedung",
+                "patterns": ["Tschüss", "Bye", "Tschau"],
+                "responses": ["Tschüss!", "Bis bald", "Aufwiedersehen"]
+            },
+            {
+                "tag": "Bedankung",
+                "patterns": ["Danke", "Dankeschön"],
+                "responses": ["Bitte!", "Bitteschön"]
+            },
+            {
+                "tag": "GFS Frage",
+                "patterns": ["Was ist eine GFS", "Was heißt GFS", "Was bedeutet GFS", "Eine GFS ist?", "Was ist GFS?"],
+                "responses": ["Eine gleichwertige Feststellung von Schülerleistungen (GFS) ist eine Art der Leistungsbeurteilung im Schulsystem von Baden-Württemberg. Beurteilt wird eine vom Schüler selbstständig im Laufe des Schuljahres erbrachte individuelle Leistung. Danach kann als gleichwertige Leistung erbracht werden: eine schriftliche Hausarbeit, eine Jahresarbeit, ein Projekt (darunter auch experimentelle Arbeiten im naturwissenschaftlichen Bereich), eine Freiarbeit, ein Referat, eine mündliche, gegebenenfalls auch außerhalb der stundenplanmäßigen Unterrichtszeit terminierte Prüfung oder eine andere Präsentation."]
+            },
+            {
+                "tag": "GSL Frage",
+                "patterns": ["Was ist eine GSL", "Was heißt GSL", "Was bedeutet GSL", "Eine GSL ist?", "Was ist GSL?"],
+                "responses": ["Gleichwertige Schülerleistung (GSK) - Eine gleichwertige Feststellung von Schülerleistungen (GSL) ist eine Art der Leistungsbeurteilung im Schulsystem von Baden-Württemberg. Beurteilt wird eine vom Schüler selbstständig im Laufe des Schuljahres erbrachte individuelle Leistung. Danach kann als gleichwertige Leistung erbracht werden: eine schriftliche Hausarbeit, eine Jahresarbeit, ein Projekt (darunter auch experimentelle Arbeiten im naturwissenschaftlichen Bereich), eine Freiarbeit, ein Referat, eine mündliche, gegebenenfalls auch außerhalb der stundenplanmäßigen Unterrichtszeit terminierte Prüfung oder eine andere Präsentation."]
             }
+
 
         ]
     
