@@ -1,7 +1,7 @@
 # Artificial intelligence (AI) and machine learning
 Introduction to artificial intelligence. Examples and applications in business and everyday life
 
-Outline:
+## Outline:
 
 - Ethical and social aspects of AI
 - Applications of AI in business (e.g. customer service, financial analysis)
@@ -9,7 +9,9 @@ Outline:
 - Difference between artificial intelligence and machine learning. Real example in Python.
 - Definition and history of AI
 
-|----------|----------|
-| Code (eigener)    | https://github.com/whoisnico/GFS-KI   | 
-| Python Package    | https://www.tensorflow.org/           |
-| Info über GFS/GSL | https://de.wikipedia.org/wiki/Gleichwertige_Feststellung_von_Schülerleistungen            |
+## Sources:
+
+### KI/AI Example
+Code (myself)       https://github.com/whoisnico/GFS-KI
+Python Package      https://www.tensorflow.org/
+Info about GFS/GSL  https://de.wikipedia.org/wiki/Gleichwertige_Feststellung_von_Schülerleistungen
