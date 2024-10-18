@@ -8,3 +8,8 @@ Outline:
 - Basic algorithms and models of machine learning
 - Difference between artificial intelligence and machine learning. Real example in Python.
 - Definition and history of AI
+
+|----------|----------|
+| Code (eigener)    | https://github.com/whoisnico/GFS-KI   | 
+| Python Package    | https://www.tensorflow.org/           |
+| Info über GFS/GSL | https://de.wikipedia.org/wiki/Gleichwertige_Feststellung_von_Schülerleistungen            |
