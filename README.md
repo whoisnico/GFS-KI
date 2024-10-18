@@ -12,6 +12,6 @@ Introduction to artificial intelligence. Examples and applications in business a
 ## Sources:
 
 ### KI/AI Example
-Code (myself)       https://github.com/whoisnico/GFS-KI
-Python Package      https://www.tensorflow.org/
-Info about GFS/GSL  https://de.wikipedia.org/wiki/Gleichwertige_Feststellung_von_Schülerleistungen
+- Code (myself)       https://github.com/whoisnico/GFS-KI
+- Python Package      https://www.tensorflow.org/
+- Info about GFS/GSL  https://de.wikipedia.org/wiki/Gleichwertige_Feststellung_von_Schülerleistungen
