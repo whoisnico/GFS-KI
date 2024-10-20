@@ -6,8 +6,10 @@ import numpy as np
 import tensorflow as tf
 
 import nltk
-
-nltk.download('punkt')
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt')
 from nltk.stem import WordNetLemmatizer
 nltk.download('wordnet')
 
